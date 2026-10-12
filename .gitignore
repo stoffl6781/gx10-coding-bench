@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 # Beitragsbild, gehört nicht ins Repo
 /18467-*.png
+/gutenberg-baustein-fuer-blog-aufgaben.md
