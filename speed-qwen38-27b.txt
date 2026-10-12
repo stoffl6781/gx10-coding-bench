@@ -1,0 +1,5 @@
+prefill 12950 tok:   8.0 s =   1609 tok/s
+prefill 38881 tok:  30.9 s =   1259 tok/s
+decode run 1: 1200 tok in  41.4 s =  29.0 tok/s (TTFT 0.38 s)
+decode run 2: 1200 tok in  42.5 s =  28.2 tok/s (TTFT 0.14 s)
+decode run 3: 1200 tok in  43.8 s =  27.4 tok/s (TTFT 0.24 s)

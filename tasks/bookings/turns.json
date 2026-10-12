@@ -1,0 +1,4 @@
+[
+  "Die Tests in tests/ schlagen fehl. Finde die Ursachen und behebe sie im Code, ohne die Tests zu ändern. Halte dich an die Regeln in README.md.",
+  "Neue Anforderungen: 1) Belegung.cancel(booking_id) entfernt eine Buchung, eine unbekannte ID wirft KeyError. 2) Eine Buchung darf höchstens 28 Nächte dauern, sonst ValueError. 3) Liegt die Anreise im Juli oder August, gilt ein Mindestaufenthalt von 3 Nächten, sonst ValueError. Alle bisherigen Regeln gelten weiter. Ergänze Tests und führe alle Tests aus."
+]

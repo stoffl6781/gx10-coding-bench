@@ -1,0 +1,6 @@
+# wird von run_bench.py zur Laufzeit erzeugt
+opencode-bench.json
+__pycache__/
+*.pyc
+# Beitragsbild, gehört nicht ins Repo
+/18467-*.png
